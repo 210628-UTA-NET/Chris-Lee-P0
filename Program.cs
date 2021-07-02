@@ -40,3 +40,4 @@ namespace HelloWord
             return "Hello World SomeMethod.";
         }
     }
+}

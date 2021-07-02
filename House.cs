@@ -1,9 +1,11 @@
 using System;
 
 namespace HouseFunction
-public class NewBaseType
+{public class NewBaseType
 {
 }
+}
+//This is an edit.....
 
 public class House
     {   
